@@ -1,9 +1,11 @@
-# Hi, I'm [Geo](https://www.geosauer.com)
+<!-- # Hi, I'm [Geo](https://www.geosauer.com) -->
+# Hi, I'm Geo
 ## Full stack software engineer out of Loveland, CO
 
 - I use he/they pronouns
 - Ask me about my time as a coax splicing technician or bronze welder!
-- Feel free to send me an email or connect: [Gmail](geo.sauer89@gmail.com) [LinkedIn](https://www.linkedin.com/in/geosauer/) [Portfolio](https://www.geosauer.com)
+<!-- - Feel free to send me an email or connect: [Gmail](geo.sauer89@gmail.com) [LinkedIn](https://www.linkedin.com/in/geosauer/) [Portfolio](https://www.geosauer.com) -->
+- - Feel free to send me an email or connect: [Gmail](geo.sauer89@gmail.com) [LinkedIn](https://www.linkedin.com/in/geosauer/) 
 - In the summer you can find me swinging my seax around as a Renaissance Faire performer with The Knights of the Tempest ⚔️
 
 #### Tech Stack
