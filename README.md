@@ -1,8 +1,8 @@
 # Hi, I'm [Geo](https://www.geosauer.com)
 
-## Full stack software engineer out of Loveland, CO
+## Frontend software engineer out of Loveland, CO
 
-- I use he/they pronouns
+- I have a specific interest in crafting intuitive, performant, and accessible web based applications
 - Ask me about my time as a coax splicing technician or bronze welder!
 - Feel free to send me an email or connect: [Gmail](geo.sauer89@gmail.com) [LinkedIn](https://www.linkedin.com/in/geosauer/) [Portfolio](https://www.geosauer.com)
 - In the summer you can find me swinging my seax around as a Renaissance Faire performer with The Knights of the Tempest ⚔️
